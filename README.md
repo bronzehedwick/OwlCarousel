@@ -61,7 +61,7 @@ You don't need any special markup. All you need is to wrap your divs inside the 
 ### 3.Call the plugin
 Now call the Owl initializer function and your carousel is ready.
 
-```html
+```js
 $(".owl-carousel").owlCarousel();
 ```
 ### 4. For more details visit [OwlCarousel landing page](http://owlgraphic.com/owlcarousel)
